@@ -1,5 +1,6 @@
 //Heap Sort
-//Codificado por sAfOrAs 
+//Codificado por sAfOrAs
+//Editado por Leo Corea 
 #include <iostream>
 #define max 100
 using namespace std;
